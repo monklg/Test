@@ -1,0 +1,11 @@
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\Development\TestAccessSoftek\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\Development\TestAccessSoftek\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\Development\TestAccessSoftek\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\Development\TestAccessSoftek\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\Development\TestAccessSoftek\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\Development\TestAccessSoftek\Test\obj\Debug\netcoreapp3.1\Test.pdb
